@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DUETLibraryManagement</string>
+    <string name="lib_hours_text">
+        1. General Library: Sunday-Thursday (9:00am to 5:00pm)
+        \n
+        2. Reading Hall: Sunday-Thursday (9:00am to 10:00pm) and Friday (9:00am to 12:00pm)
+        \n
+        3. Browsing Room: Saturday (4:00am to 9:00pm)</string>
+    <string name="mission_text">The libraries mission is to provide comprehensive resources and service in support of the research, teaching and learning needs of the university community. </string>
+    <string name="vission_text">Develop a world class knowledge resource center and provide innovative new services and collection to the teaching, learning and research communities, using latest technological developments of 21st century. </string>
+    <array name="bookCategories">
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>CE</item>
+        <item>ME</item>
+        <item>TE</item>
+        <item>CFE</item>
+        <item>IPE</item>
+        <item>MME</item>
+        <item>Arch</item>
+        <item>Science</item>
+        <item>Math</item>
+        <item>Phy</item>
+        <item>Chem</item>
+        <item>HSS</item>
+    </array>
+    <array name="dept">
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>CE</item>
+        <item>ME</item>
+        <item>TE</item>
+        <item>CFE</item>
+        <item>IPE</item>
+        <item>MME</item>
+        <item>Arch</item>
+    </array>
+</resources>

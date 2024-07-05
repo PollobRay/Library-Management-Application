@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312461785856",
+    "project_id": "duetlibrarymanagement",
+    "storage_bucket": "duetlibrarymanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312461785856:android:52a7b559fbb449aa9151e5",
+        "android_client_info": {
+          "package_name": "com.example.duetlibrarymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312461785856-k1muonflrp71d5d0hhjumitd03e52t85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABmWTwTRu4d5C3lDmG1Nf9a4tjwSuDF3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312461785856-k1muonflrp71d5d0hhjumitd03e52t85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

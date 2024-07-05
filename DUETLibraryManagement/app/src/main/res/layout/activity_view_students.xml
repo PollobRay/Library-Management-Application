@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewStudents"
+    android:orientation="vertical"
+    >
+    <ListView
+        android:id="@+id/viewStdListId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#196A06"
+        android:dividerHeight="2dp"
+        android:listSelector="#C8E674"
+        />
+
+</LinearLayout>
